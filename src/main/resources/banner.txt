@@ -1,4 +1,3 @@
-${AnsiBackground.BRIGHT_BLACK}
 ${Ansi.BLUE}                                                                                          bbbbbbbb                                                   dddddddd
 ${Ansi.BLUE} LLLLLLLLLLL                               NNNNNNNN        NNNNNNNN                       b::::::b              iiii                                 d::::::d
 ${Ansi.BLUE} L:::::::::L                               N:::::::N       N::::::N                       b::::::b             i::::i                                d::::::d
@@ -16,5 +15,3 @@ ${Ansi.BLUE} LL:::::::LLLLLLLLL:::::Lu:::::::::::::::uuN::::::N      N::::::::Na
 ${Ansi.BLUE} L::::::::::::::::::::::L u:::::::::::::::uN::::::N       N:::::::Na:::::aaaa::::::a       b::::::::::::::::b i::::::ir:::::r             d:::::::::::::::::d
 ${Ansi.BLUE} L::::::::::::::::::::::L  uu::::::::uu:::uN::::::N        N::::::N a::::::::::aa:::a      b:::::::::::::::b  i::::::ir:::::r              d:::::::::ddd::::d
 ${Ansi.BLUE} LLLLLLLLLLLLLLLLLLLLLLLL    uuuuuuuu  uuuuNNNNNNNN         NNNNNNN  aaaaaaaaaa  aaaa      bbbbbbbbbbbbbbbb   iiiiiiiirrrrrrr               ddddddddd   ddddd.
-${AnsiBackground.DEFAULT}
-${Ansi.DEFAULT}
