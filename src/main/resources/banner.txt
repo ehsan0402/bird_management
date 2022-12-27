@@ -1,18 +1,20 @@
-                                                                                                                                                            
-                                                                                         bbbbbbbb                                                   dddddddd
-LLLLLLLLLLL                               NNNNNNNN        NNNNNNNN                       b::::::b              iiii                                 d::::::d
-L:::::::::L                               N:::::::N       N::::::N                       b::::::b             i::::i                                d::::::d
-L:::::::::L                               N::::::::N      N::::::N                       b::::::b              iiii                                 d::::::d
-LL:::::::LL                               N:::::::::N     N::::::N                        b:::::b                                                   d:::::d 
-  L:::::L               uuuuuu    uuuuuu  N::::::::::N    N::::::N  aaaaaaaaaaaaa         b:::::bbbbbbbbb    iiiiiiirrrrr   rrrrrrrrr       ddddddddd:::::d 
-  L:::::L               u::::u    u::::u  N:::::::::::N   N::::::N  a::::::::::::a        b::::::::::::::bb  i:::::ir::::rrr:::::::::r    dd::::::::::::::d 
-  L:::::L               u::::u    u::::u  N:::::::N::::N  N::::::N  aaaaaaaaa:::::a       b::::::::::::::::b  i::::ir:::::::::::::::::r  d::::::::::::::::d 
-  L:::::L               u::::u    u::::u  N::::::N N::::N N::::::N           a::::a       b:::::bbbbb:::::::b i::::irr::::::rrrrr::::::rd:::::::ddddd:::::d 
-  L:::::L               u::::u    u::::u  N::::::N  N::::N:::::::N    aaaaaaa:::::a       b:::::b    b::::::b i::::i r:::::r     r:::::rd::::::d    d:::::d 
-  L:::::L               u::::u    u::::u  N::::::N   N:::::::::::N  aa::::::::::::a       b:::::b     b:::::b i::::i r:::::r     rrrrrrrd:::::d     d:::::d 
-  L:::::L               u::::u    u::::u  N::::::N    N::::::::::N a::::aaaa::::::a       b:::::b     b:::::b i::::i r:::::r            d:::::d     d:::::d 
-  L:::::L         LLLLLLu:::::uuuu:::::u  N::::::N     N:::::::::Na::::a    a:::::a       b:::::b     b:::::b i::::i r:::::r            d:::::d     d:::::d 
-LL:::::::LLLLLLLLL:::::Lu:::::::::::::::uuN::::::N      N::::::::Na::::a    a:::::a       b:::::bbbbbb::::::bi::::::ir:::::r            d::::::ddddd::::::dd
-L::::::::::::::::::::::L u:::::::::::::::uN::::::N       N:::::::Na:::::aaaa::::::a       b::::::::::::::::b i::::::ir:::::r             d:::::::::::::::::d
-L::::::::::::::::::::::L  uu::::::::uu:::uN::::::N        N::::::N a::::::::::aa:::a      b:::::::::::::::b  i::::::ir:::::r              d:::::::::ddd::::d
-LLLLLLLLLLLLLLLLLLLLLLLL    uuuuuuuu  uuuuNNNNNNNN         NNNNNNN  aaaaaaaaaa  aaaa      bbbbbbbbbbbbbbbb   iiiiiiiirrrrrrr               ddddddddd   ddddd.
+${AnsiBackground.BRIGHT_BLACK}
+${Ansi.BLUE}                                                                                          bbbbbbbb                                                   dddddddd
+${Ansi.BLUE} LLLLLLLLLLL                               NNNNNNNN        NNNNNNNN                       b::::::b              iiii                                 d::::::d
+${Ansi.BLUE} L:::::::::L                               N:::::::N       N::::::N                       b::::::b             i::::i                                d::::::d
+${Ansi.BLUE} L:::::::::L                               N::::::::N      N::::::N                       b::::::b              iiii                                 d::::::d
+${Ansi.BLUE} LL:::::::LL                               N:::::::::N     N::::::N                        b:::::b                                                   d:::::d
+${Ansi.BLUE}   L:::::L               uuuuuu    uuuuuu  N::::::::::N    N::::::N  aaaaaaaaaaaaa         b:::::bbbbbbbbb    iiiiiiirrrrr   rrrrrrrrr       ddddddddd:::::d
+${Ansi.BLUE}   L:::::L               u::::u    u::::u  N:::::::::::N   N::::::N  a::::::::::::a        b::::::::::::::bb  i:::::ir::::rrr:::::::::r    dd::::::::::::::d
+${Ansi.BLUE}   L:::::L               u::::u    u::::u  N:::::::N::::N  N::::::N  aaaaaaaaa:::::a       b::::::::::::::::b  i::::ir:::::::::::::::::r  d::::::::::::::::d
+${Ansi.BLUE}   L:::::L               u::::u    u::::u  N::::::N N::::N N::::::N           a::::a       b:::::bbbbb:::::::b i::::irr::::::rrrrr::::::rd:::::::ddddd:::::d
+${Ansi.BLUE}   L:::::L               u::::u    u::::u  N::::::N  N::::N:::::::N    aaaaaaa:::::a       b:::::b    b::::::b i::::i r:::::r     r:::::rd::::::d    d:::::d
+${Ansi.BLUE}   L:::::L               u::::u    u::::u  N::::::N   N:::::::::::N  aa::::::::::::a       b:::::b     b:::::b i::::i r:::::r     rrrrrrrd:::::d     d:::::d
+${Ansi.BLUE}   L:::::L               u::::u    u::::u  N::::::N    N::::::::::N a::::aaaa::::::a       b:::::b     b:::::b i::::i r:::::r            d:::::d     d:::::d
+${Ansi.BLUE}   L:::::L         LLLLLLu:::::uuuu:::::u  N::::::N     N:::::::::Na::::a    a:::::a       b:::::b     b:::::b i::::i r:::::r            d:::::d     d:::::d
+${Ansi.BLUE} LL:::::::LLLLLLLLL:::::Lu:::::::::::::::uuN::::::N      N::::::::Na::::a    a:::::a       b:::::bbbbbb::::::bi::::::ir:::::r            d::::::ddddd::::::dd
+${Ansi.BLUE} L::::::::::::::::::::::L u:::::::::::::::uN::::::N       N:::::::Na:::::aaaa::::::a       b::::::::::::::::b i::::::ir:::::r             d:::::::::::::::::d
+${Ansi.BLUE} L::::::::::::::::::::::L  uu::::::::uu:::uN::::::N        N::::::N a::::::::::aa:::a      b:::::::::::::::b  i::::::ir:::::r              d:::::::::ddd::::d
+${Ansi.BLUE} LLLLLLLLLLLLLLLLLLLLLLLL    uuuuuuuu  uuuuNNNNNNNN         NNNNNNN  aaaaaaaaaa  aaaa      bbbbbbbbbbbbbbbb   iiiiiiiirrrrrrr               ddddddddd   ddddd.
+${AnsiBackground.DEFAULT}
+${Ansi.DEFAULT}
