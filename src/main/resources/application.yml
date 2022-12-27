@@ -14,3 +14,12 @@ spring:
   sql:
     init:
       platform: mariadb
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: shutdown, heapdump
+  endpoint:
+    shutdown:
+      enabled: true
