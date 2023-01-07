@@ -2,8 +2,8 @@ spring:
   datasource:
     driverClassName: org.mariadb.jdbc.Driver
     url: jdbc:mariadb:failover://localhost:3306/birdie?autoReconnect=true
-    username: birdie
-    password: birdie12345
+    username: ENC(Gv1FlgmendTaKGDvOPbRRBcOHVgAX8r8eZcfiun5jm/urJOTwDIJCQQAO2aVOE4V)
+    password: ENC(DeYOdPfjDQZiU0m++I+ImJcEYVc3kh19VN5QAxR0QyLKNpxDlkHFCu4hmi0SxD/X)
 
     timeBetweenEvictionRunsMillis: 1000
     testWhileIdle: true
@@ -14,3 +14,16 @@ spring:
   sql:
     init:
       platform: mariadb
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    shutdown:
+      enabled: true
+
+jasypt:
+  encryptor:
+    password: EHHBirdie
