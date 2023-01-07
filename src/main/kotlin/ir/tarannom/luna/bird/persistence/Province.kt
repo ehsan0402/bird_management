@@ -6,14 +6,14 @@ import jakarta.validation.constraints.Size
 
 @Entity
 @Table(name = "province")
-open class Province {
+class Province {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id", nullable = false)
-    open var id: Int? = null
+    var id: Int? = null
 
     @Size(max = 50)
     @NotNull
-    @Column(name = "name", nullable = false, length = 50)
-    open var name: String? = null
+    @Column(name = "name", nullable = false, length = 50, unique = true)
+    var name: String? = null
 }
